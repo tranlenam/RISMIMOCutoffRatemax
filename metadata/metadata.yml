@@ -1,0 +1,21 @@
+metadata_version: 1
+name: Optimization of RIS-aided MIMO Systems via the Cutoff Rate
+description: Simulation codes for "Optimization of RIS-aided MIMO Systems via the
+  Cutoff Rate," by Nemanja Stefan Perović, Le-Nam Tran, Marco Di Renzo, and Mark F.
+  Flanagan, IEEE Wireless Commun. Lett. , vol. 10, no.8, pp. 1692-1696, Aug. 2021.
+authors:
+- name: Nemanja Stefan Perović
+  affiliations:
+  - name: University College Dublin
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+- name: Marco Di Renzo
+  affiliations:
+  - name: Université Paris-Saclay
+- name: Mark F. Flanagan
+  affiliations:
+  - name: University College Dublin
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
