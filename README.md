@@ -1,6 +1,6 @@
 # Optimization of RIS-aided MIMO Systems via the Cutoff Rate
 
-This capsule contains the code for the following scientific paper:
+This repo is cloned from [this CodeOcean capsule](https://codeocean.com/capsule/1300715/tree/v1), which contains the code for the following scientific paper:
 
 Nemanja Stefan Perović, Le-Nam Tran, Marco Di Renzo, and Mark F. Flanagan, "Optimization of RIS-aided MIMO Systems via the Cutoff Rate," IEEE Wireless Commun. Lett. ,  vol. 10, no.8, pp. 1692-1696, Aug. 2021.
 
